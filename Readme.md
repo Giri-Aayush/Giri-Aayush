@@ -37,12 +37,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
 <br />
-<<<<<<< HEAD
 <br />
-=======
 <br />
 
-[twitter]: https://twitter.com/AayushG57674632
-[instagram]: https://www.instagram.com/_aayush_giri_/
-[linkedin]: https://www.linkedin.com/in/aayush-giri/
->>>>>>> af9aae7fdb8713d6f74c0c18732f1c3434bdb2b0
