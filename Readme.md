@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3 And Machine learning
 - ⚡ Fun fact: I love to do Video Editing
-- [Portfolio Website-](https://aayush-giri.vercel.app/)
+- [Portfolio Website](https://aayush-giri.vercel.app/)
 
 ### Connect with me:
 
