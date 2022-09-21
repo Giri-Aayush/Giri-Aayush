@@ -7,6 +7,7 @@
 - 🥅 2022 Goals: Learn more about web3 And Machine learning
 - ⚡ Fun fact: I love to do Video Editing
 - [Portfolio Website](https://aayush-giri.vercel.app/)
+- can also reach out on Gmail : aayushgiri1234@gmail.com
 
 ### Connect with me:
 
