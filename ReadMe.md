@@ -1,4 +1,4 @@
-![image](https://github.com/Giri-Aayush/Giri-Aayush/blob/master/assets/Aayush_Giri-DR.png)
+![image](https://github.com/Giri-Aayush/Giri-Aayush/blob/master/assets/github-bg.png)
 
 - 📍 Living in India
 - I work as a blockchain-centric-backend-heavy software engineer. Mostly using Rust, Golang, Typescript, Solidity.
