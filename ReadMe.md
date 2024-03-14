@@ -22,7 +22,7 @@
 - [AI-Summarizer](https://github.com/Giri-Aayush/AI-Summarizer-Sumz) - Article summarizer that transforms lengthy articles into clear and concise summaries.
 
 **Writings**
-- Have written a tutorial blog on Understanding and Getting-started with Blockchain Systems. Give it a read [here](https://medium.com/@aayushgiri1234)
+- Have written a tutorial blog on Understanding and Getting-started with Blockchain Systems. Give it a read [here](https://medium.com/@aayushgiri1234).
 
 **Socials**
 
