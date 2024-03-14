@@ -3,7 +3,7 @@
 - 📍 Living in India
 - I work as a blockchain-centric-backend-heavy software engineer. Mostly using Rust, Golang, Typescript, Solidity.
 - Interested in Cryptography research and development for Blockchain and Backend Engineering.
-- Wanna catch-up? Schedule a meet with me at [cal.com/yashsehgal](https://cal.com/aayush-giri)
+- Wanna catch-up? Schedule a meet with me at [cal.com/aayush-giri](https://cal.com/aayush-giri)
 - General mails at aayushgiri1234@gmail.com
 
 **Work experience**
