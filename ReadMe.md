@@ -21,13 +21,6 @@
 - [Plagiarism-Detector](https://github.com/Giri-Aayush/Plagiarism-Detector) - Project offers precise analysis with an intuitive interface, utilizing TF-IDF and cosine similarity for accurate plagiarism detection.
 - [AI-Summarizer](https://github.com/Giri-Aayush/AI-Summarizer-Sumz) - Article summarizer that transforms lengthy articles into clear and concise summaries.
 
-<!--Languages and Tools Section--> 
-**Languages and Tools**      
-<p>
-<img src="https://skillicons.dev/icons?i=rust,go,ts,solidity,py,cpp,bash,js,html,css,react,nextjs,astro,nodejs,express,md,postgres,mysql,ipfs,mongodb,git,vscode,docker,aws,gcp,postman,linux,ubuntu,htmx,github"/>
-</p>
-<br />
-
 **Writings**
 - Have written a tutorial blog on Understanding and Getting-started with Blockchain Systems. Give it a read [here](https://medium.com/@aayushgiri1234).
 
@@ -35,6 +28,12 @@
 
 [Twitter/AayushStack](https://twitter.com/AayushStack) &bullet; [LinkedIn/aayush-giri](https://www.linkedin.com/in/aayush-giri/) &bullet; [Instagram/aayushgiri_](https://www.instagram.com/_aayush_giri_/) &bullet; [Website/aayush-giri](https://aayush-giri.vercel.app/) 
 
+<!--Languages and Tools Section--> 
+**Languages and Tools**      
+<p>
+<img src="https://skillicons.dev/icons?i=rust,go,ts,solidity,py,cpp,bash,js,html,css,react,nextjs,astro,nodejs,express,md,postgres,mysql,ipfs,mongodb,git,vscode,docker,aws,gcp,postman,linux,ubuntu,htmx,github"/>
+</p>
+<br />
 
 
 
