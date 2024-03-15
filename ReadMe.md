@@ -24,9 +24,10 @@
 <!--Languages and Tools Section--> 
 **Languages and Tools**      
 <p>
-<img width="500px"  src="https://skillicons.dev/icons?i=rust,go,ts,solidity,py,cpp,bash,js,html,css,react,nextjs,astro,nodejs,express,md,postgres,mysql,ipfs,mongodb,git,vscode,docker,aws,gcp,postman,linux"  />
+<img src="https://skillicons.dev/icons?i=rust,go,ts,solidity,py,cpp,bash,js,html,css,react,nextjs,astro,nodejs,express,md,postgres,mysql,ipfs,mongodb,git,vscode,docker,aws,gcp,postman,linux"/>
 </p>
 <br />
+
 **Writings**
 - Have written a tutorial blog on Understanding and Getting-started with Blockchain Systems. Give it a read [here](https://medium.com/@aayushgiri1234).
 
