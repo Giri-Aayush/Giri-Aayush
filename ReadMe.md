@@ -24,7 +24,7 @@
 <!--Languages and Tools Section--> 
 **Languages and Tools**      
 <p>
-<img src="https://skillicons.dev/icons?i=rust,go,ts,solidity,py,cpp,bash,js,html,css,react,nextjs,astro,nodejs,express,md,postgres,mysql,ipfs,mongodb,git,vscode,docker,aws,gcp,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=rust,go,ts,solidity,py,cpp,bash,js,html,css,react,nextjs,astro,nodejs,express,md,postgres,mysql,ipfs,mongodb,git,vscode,docker,aws,gcp,postman,linux,ubuntu,htmx,github"/>
 </p>
 <br />
 
