@@ -21,6 +21,13 @@
 - [Plagiarism-Detector](https://github.com/Giri-Aayush/Plagiarism-Detector) - Project offers precise analysis with an intuitive interface, utilizing TF-IDF and cosine similarity for accurate plagiarism detection.
 - [AI-Summarizer](https://github.com/Giri-Aayush/AI-Summarizer-Sumz) - Article summarizer that transforms lengthy articles into clear and concise summaries.
 
+<!--Languages and Tools Section--> 
+**Languages and Tools**      
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=rust,go,ts,solidity,py,cpp,bash,js,html,css,react,nextjs,astro,nodejs,express,md,postgres,mysql,ipfs,mongodb,git,vscode,docker,aws,gcp,postman,linux&perline=10"  />
+</p>
+<br />
 **Writings**
 - Have written a tutorial blog on Understanding and Getting-started with Blockchain Systems. Give it a read [here](https://medium.com/@aayushgiri1234).
 
