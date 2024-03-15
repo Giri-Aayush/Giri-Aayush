@@ -23,8 +23,7 @@
 
 <!--Languages and Tools Section--> 
 **Languages and Tools**      
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
+<p>
 <img width="500px"  src="https://skillicons.dev/icons?i=rust,go,ts,solidity,py,cpp,bash,js,html,css,react,nextjs,astro,nodejs,express,md,postgres,mysql,ipfs,mongodb,git,vscode,docker,aws,gcp,postman,linux&perline=20"  />
 </p>
 <br />
