@@ -16,9 +16,9 @@
 
 **Project and experiments**
 
-- [Chaum-Pedersen protocol Implementaion](https://github.com/Giri-Aayush/zkp-authentication) - Authentication via a gRPC interface utilizing Zero-Knowledge Proof (ZKP) protocols in Rust.
-- [Log-Watcher (Similar to tail -f)](https://github.com/Giri-Aayush/log-watcher) - Real-Time log monitoring system, mimicking UNIX’s tail -f with efficient large log file handling and simultaneous multi-client support.
-- [Plagiarism-Detector](https://github.com/Giri-Aayush/Plagiarism-Detector) - Project offers precise analysis with an intuitive interface, utilizing TF-IDF and cosine similarity for accurate plagiarism detection.
+- [Chaum-Pedersen protocol Implementaion](https://github.com/Giri-Aayush/zkp-authentication) - Authentication via a gRPC interface utilizing ZKP protocol in Rust.
+- [Log-Watcher (Similar to tail -f)](https://github.com/Giri-Aayush/log-watcher) - Real-Time log monitoring system, mimicking UNIX’s tail -f with simultaneous multi-client support.
+- [Plagiarism-Detector](https://github.com/Giri-Aayush/Plagiarism-Detector) - An intuitive interface, utilizing TF-IDF and cosine similarity for accurate plagiarism detection.
 - [AI-Summarizer](https://github.com/Giri-Aayush/AI-Summarizer-Sumz) - Article summarizer that transforms lengthy articles into clear and concise summaries.
 
 **Writings**
