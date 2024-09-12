@@ -10,7 +10,7 @@
 
 - Developer Relations Engineer at [Nethermind](https://github.com/NethermindEth). Responsible for Growth of Stakrnet's and Nethermind's Developer space.
 - Engineering intern at [Nethermind](https://github.com/NethermindEth). Part of the Research Engineering Team.
-- Engineering intern at [Spheron](https://github.com/spheronFdn). Managing everything technical on Growth Team.
+- Engineering & DevRel intern at [Spheron](https://github.com/spheronFdn). Managing everything technical on Growth Team.
 - Engineering intern at [Jio](https://jiomeetpro.jio.com/main). Contributed to Jio-Meet WebRTC.
 - Worked as a Founding Blockchain Engineer at [Clamp](https://joinclamp.com).
 - Worked as a Blockchain Researcher at [IIT(ISM) Dhanbad](https://cse.iitism.ac.in/).
