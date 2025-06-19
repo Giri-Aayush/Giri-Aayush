@@ -8,7 +8,7 @@
 
 **Work experience**
 
-- Developer Relations Engineer at [Nethermind](https://github.com/NethermindEth). Responsible for Growth of Stakrnet's and Nethermind's Developer space.
+- Developer Relations Engineer at [Nethermind](https://github.com/NethermindEth). Responsible for Growth of Starknet's and Nethermind's Developer space.
 - Engineering intern at [Nethermind](https://github.com/NethermindEth). Part of the Research Engineering Team.
 - Engineering & DevRel intern at [Spheron](https://github.com/spheronFdn). Managing everything technical on Growth Team.
 - Engineering intern at [Jio](https://jiomeetpro.jio.com/main). Contributed to Jio-Meet WebRTC.
