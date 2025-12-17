@@ -7,10 +7,10 @@
 - General mails at aayushgiri1234@gmail.com
 
 **Work experience**
-
-- Developer Relations Engineer at [Nethermind](https://github.com/NethermindEth). Responsible for Growth of Starknet's and Nethermind's Developer space.
-- Engineering intern at [Nethermind](https://github.com/NethermindEth). Part of the Research Engineering Team.
-- Engineering & DevRel intern at [Spheron](https://github.com/spheronFdn). Managing everything technical on Growth Team.
+- Senior Developer Relations Engineer at [Nethermind](https://github.com/NethermindEth). Leading DevRel for Growth of Starknet's and Nethermind's Developer space, managing products like [AuditAgent](https://auditagent.nethermind.io/), [starknet.go](https://starknet-go.nethermind.io/), etc.
+- Research Engineer at [Nethermind](https://github.com/NethermindEth). Worked on cryptographic primitives and scaling solutions for Starknet.
+- Developer Relations Engineer at [Spheron](https://github.com/spheronFdn). Managing everything technical on Growth Team.
+-  Software Development Engineer Intern at [Spheron](https://github.com/spheronFdn). Built integration prototypes wit partners.
 - Engineering intern at [Jio](https://jiomeetpro.jio.com/main). Contributed to Jio-Meet WebRTC.
 - Worked as a Founding Blockchain Engineer at [Clamp](https://joinclamp.com).
 - Engineering intern at [Rize Labs](https://github.com/RizeLabs). Worked on Account Abstraction wallets.
