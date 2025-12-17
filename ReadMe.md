@@ -7,7 +7,7 @@
 - General mails at aayushgiri1234@gmail.com
 
 **Work experience**
-- Senior Developer Relations Engineer at [Nethermind](https://github.com/NethermindEth). Leading DevRel for Growth of Starknet's and Nethermind's Developer space.
+- Senior Developer Relations Engineer at [Nethermind](https://github.com/NethermindEth). Leading DevRel for Starknet's and Nethermind's Developer space.
 - Research Engineer at [Nethermind](https://github.com/NethermindEth). Worked on cryptographic primitives and scaling solutions for Starknet.
 - Developer Relations Engineer at [Spheron](https://github.com/spheronFdn). Managing everything technical on Growth Team.
 -  Software Development Engineer Intern at [Spheron](https://github.com/spheronFdn). Built integration prototypes wit partners.
