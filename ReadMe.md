@@ -28,8 +28,7 @@
 
 **Socials**
 
-[Twitter/AayushStack](https://twitter.com/AayushStack) &bullet; [LinkedIn/aayush-giri](https://www.linkedin.com/in/aayush-giri/) &bullet; [Instagram/aayushgiri_](https://www.instagram.com/_aayush_giri_/) &bullet; [Website/aayush-giri](https://aayush-giri.vercel.app/) 
-
+[Twitter/AayushStack](https://twitter.com/AayushStack) &bullet; [LinkedIn/aayush-giri](https://www.linkedin.com/in/aayush-giri/) &bullet; [Instagram/aayushgiri_](https://www.instagram.com/_aayush_giri_/) &bullet; 
 <!--Languages and Tools Section--> 
 **Languages and Tools**      
 <p>
