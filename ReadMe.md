@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=rust,go,ts,solidity,py,cpp,bash,js,html,css,react,nextjs,astro,nodejs,express,md,postgres,mysql,ipfs,mongodb,git,vscode,docker,aws,gcp,postman,linux,ubuntu,htmx,github"/>
 </p>
 
-> I love making developer experience simpler - always building tools for that. Deeply in love with cryptography and Ethereum. If there's a way to make onchain building less painful, I'm probably already working on it.
+> 5 years in - still the most fun I've had. I love making developer experience simpler, always building tools for that. Deeply in love with cryptography and Ethereum. If there's a way to make onchain building less painful, I'm probably already working on it.
 
 **Work**
 - Senior Developer Relations Engineer at [Nethermind](https://github.com/NethermindEth) - leading DevRel 
