@@ -1,49 +1,60 @@
-![image](https://github.com/Giri-Aayush/Giri-Aayush/blob/master/assets/github-bg.png)
+# Hi, I'm Aayush 👋
 
-- 📍 Living in India
-- I work as a blockchain-centric-backend-heavy software engineer. Mostly using Rust, Golang, Typescript, Solidity.
-- Interested in Cryptography research and development for Blockchain and Backend Engineering.
-- Wanna catch-up? Schedule a meet with me at [cal.com/aayush-giri](https://cal.com/aayush-giri)
-- General mails at aayushgiri1234@gmail.com
+📍 India &nbsp;|&nbsp; Developer Relations / Software Engineer &nbsp;|&nbsp; Cryptography Geek
 
-**Work experience**
-- Senior Developer Relations Engineer at [Nethermind](https://github.com/NethermindEth). Leading DevRel for Starknet's and Nethermind's Developer space.
-- Research Engineer at [Nethermind](https://github.com/NethermindEth). Worked on cryptographic primitives and scaling solutions for Starknet.
-- Developer Relations Engineer at [Spheron](https://github.com/spheronFdn). Managing everything technical on Growth Team.
--  Software Development Engineer Intern at [Spheron](https://github.com/spheronFdn). Built integration prototypes wit partners.
-- Engineering intern at [Jio](https://jiomeetpro.jio.com/main). Contributed to Jio-Meet WebRTC.
-- Worked as a Founding Blockchain Engineer at [Clamp](https://joinclamp.com).
-- Engineering intern at [Rize Labs](https://github.com/RizeLabs). Worked on Account Abstraction wallets.
-- Worked as a Blockchain Researcher at [IIT(ISM) Dhanbad](https://cse.iitism.ac.in/).
-
-**Project and experiments**
-- [Starknet Faucet CLI](https://starknet-faucet.netlify.app/) - Terminal-native faucet npm package for Starknet Sepolia. 1400+ downloads so far.
-- [Starknet MCP](http://github.com/Giri-Aayush/starknet-mcp) - MCP server bridging AI agents with Starknet blockchain for task automation.
-- [Chaum-Pedersen protocol Implementaion](https://github.com/Giri-Aayush/zkp-authentication) - Authentication via a gRPC interface utilizing ZKP protocol in Rust.
-- [Log-Watcher](https://github.com/Giri-Aayush/log-watcher) - Real-Time log monitoring system, mimicking UNIX’s tail -f with simultaneous multi-client support.
-- [Plagiarism-Detector](https://github.com/Giri-Aayush/Plagiarism-Detector) - An intuitive interface, utilizing TF-IDF and cosine similarity for accurate plagiarism detection.
-- [AI-Summarizer](https://github.com/Giri-Aayush/AI-Summarizer-Sumz) - Article summarizer that transforms lengthy articles into clear and concise summaries.
-
-**Hackathon Wins**
-
-- 🥈 Runner-up - 1inch Track @ETHGlobal Prague 2025
-- 🏆 Winner - Celo Tooling Track @ETHGlobal Taipei 2025
-- 🏆 Best Innovation Award @ETHGlobal Tokyo 2023 (Bunzz, Polygon, Scroll)
-- 🏆 Sponsorship Prize @ETHGlobal India 2022 (Cartesi Rollup)
-- 🏆 Sponsorship Prize @ETHGlobal HackFS 2022 (XMTP, Lenster)
-
-**Writings**
-- Have written a tutorial blog on Understanding and Getting-started with Blockchain Systems. Give it a read [here](https://medium.com/@aayushgiri1234).
-
-**Socials**
-
-[Twitter/AayushStack](https://twitter.com/AayushStack) &bullet; [LinkedIn/aayush-giri](https://www.linkedin.com/in/aayush-giri/) &bullet; [Instagram/aayushgiri_](https://www.instagram.com/_aayush_giri_/) 
-<!--Languages and Tools Section--> 
-**Languages and Tools**      
 <p>
 <img src="https://skillicons.dev/icons?i=rust,go,ts,solidity,py,cpp,bash,js,html,css,react,nextjs,astro,nodejs,express,md,postgres,mysql,ipfs,mongodb,git,vscode,docker,aws,gcp,postman,linux,ubuntu,htmx,github"/>
 </p>
-<br />
 
+> I love making developer experience simpler - always building tools for that. Deeply in love with cryptography and Ethereum. If there's a way to make onchain building less painful, I'm probably already working on it.
 
+**Work**
+- Senior Developer Relations Engineer at [Nethermind](https://github.com/NethermindEth) - leading DevRel 
+- Research Engineer at [Nethermind](https://github.com/NethermindEth) - cryptographic primitives and scaling solutions 
+- Developer Relations Engineer at [Spheron](https://github.com/spheronFdn)
+- Founding Blockchain Engineer at [Clamp](https://joinclamp.com)
+- Engineering Intern at [Rize Labs](https://github.com/RizeLabs) - Account Abstraction wallets
+- Engineering Intern at [Jio](https://jiomeetpro.jio.com/main) - WebRTC / Jio-Meet
+- Blockchain Researcher at [IIT(ISM) Dhanbad](https://cse.iitism.ac.in/)
 
+---
+
+**Current Projects**
+
+- 🔭 [Hexcast](https://github.com/Giri-Aayush/hexcast) - Real-time Ethereum ecosystem intelligence: 88 sources, AI-summarized into 60-word cards for builders.
+- 🔮 [BFV Homomorphic Order Matching Engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - Order matching over fully encrypted data using BFV FHE in Rust - no plaintext ever revealed.
+- 🌊 [Hyperliquid Data Pipeline](https://github.com/Giri-Aayush/hyperliquid-data-pipeline) - Real-time market data pipeline streaming Hyperliquid order books, trades, and funding rates into structured storage.
+- 🎯 [Polymarket Paper Trader](https://github.com/Giri-Aayush/polymarket-paper-trader) - Prediction market paper trading engine in Rust with full position management and P&L simulation.
+- 🏺 [Aztec Faucet](https://github.com/Giri-Aayush/aztec-faucet) - Developer token faucet for Aztec's privacy-first L2.
+- 📊 [LighterLens](https://github.com/Giri-Aayush/lighter-lens) - Institutional-grade trading analytics for Lighter.xyz - Sharpe ratio, drawdown, win streaks, and full trade journal with privacy routing via Cloudflare Workers.
+
+---
+
+**Legacy Work**
+
+- 🎭 [ZKP Authentication](https://github.com/Giri-Aayush/zkp-authentication) - Chaum-Pedersen ZKP auth over gRPC in Rust - no password ever transmitted.
+- 🦾 [Starknet MCP](https://github.com/Giri-Aayush/starknet-mcp) - MCP server letting AI agents query state, send transactions, and automate tasks on Starknet.
+- ⛽ [Starknet Faucet CLI](https://starknet-faucet.netlify.app/) - Terminal-native faucet for Starknet Sepolia. 1400+ npm downloads.
+- 🛸 [OORT Storage SDK](https://github.com/Giri-Aayush/oort-storage-sdk) - TypeScript client for OORT's S3-compatible storage - bucket ops, multipart uploads, community contribution.
+- 👁️ [Log Watcher](https://github.com/Giri-Aayush/log-watcher) - Real-time multi-client log monitoring in the style of `tail -f`.
+
+---
+
+**Hackathon Wins**
+
+- 🥈 Runner-up - 1inch Track @ [ETHGlobal Prague 2025](https://github.com/Giri-Aayush/vectorPlus-ethprague-2025)
+- 🏆 Winner - Celo Tooling Track @ [ETHGlobal Taipei 2025](https://github.com/Giri-Aayush/finix-ethtaipei-2025)
+- 🏆 Best Innovation Award @ ETHGlobal Tokyo 2023 (Bunzz, Polygon, Scroll)
+- 🏆 Sponsorship Prize @ ETHGlobal HackFS 2022 (XMTP, Lenster)
+
+---
+
+**Writings**
+
+Tutorial blog on understanding and getting started with blockchain systems → [medium.com/@aayushgiri1234](https://medium.com/@aayushgiri1234)
+
+---
+
+**Socials**
+
+[Twitter/AayushStack](https://twitter.com/AayushStack) &bullet; [LinkedIn/aayush-giri](https://www.linkedin.com/in/aayush-giri/) &bullet; [Instagram/aayushgiri_](https://www.instagram.com/_aayush_giri_/) &bullet; [cal.com/aayush-giri](https://cal.com/aayush-giri)
