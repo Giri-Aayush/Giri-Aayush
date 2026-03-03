@@ -35,7 +35,7 @@
 - 🎭 [ZKP Authentication](https://github.com/Giri-Aayush/zkp-authentication) - Chaum-Pedersen ZKP auth over gRPC in Rust - no password ever transmitted.
 - 🦾 [Starknet MCP](https://github.com/Giri-Aayush/starknet-mcp) - MCP server letting AI agents query state, send transactions, and automate tasks on Starknet.
 - ⛽ [Starknet Faucet CLI](https://starknet-faucet.netlify.app/) - Terminal-native faucet for Starknet Sepolia. 1400+ npm downloads.
-- 🛸 [OORT Storage SDK](https://github.com/Giri-Aayush/oort-storage-sdk) - TypeScript client for OORT's S3-compatible storage - bucket ops, multipart uploads, community contribution.
+- 🛸 [OORT Storage SDK](https://github.com/Giri-Aayush/oort-storage-sdk) - TypeScript client for OORT's S3-compatible storage. Community contribution.
 - 👁️ [Log Watcher](https://github.com/Giri-Aayush/log-watcher) - Real-time multi-client log monitoring in the style of `tail -f`.
 
 ---
