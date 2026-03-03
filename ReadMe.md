@@ -21,12 +21,12 @@
 
 **Current Projects**
 
-- 🔭 [Hexcast](https://github.com/Giri-Aayush/hexcast) - Real-time Ethereum ecosystem intelligence: 88 sources, AI-summarized into 60-word cards for builders.
-- 🔮 [BFV Homomorphic Order Matching Engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - Order matching over fully encrypted data using BFV FHE in Rust - no plaintext ever revealed.
-- 🌊 [Hyperliquid Data Pipeline](https://github.com/Giri-Aayush/hyperliquid-data-pipeline) - Real-time market data pipeline streaming Hyperliquid order books, trades, and funding rates into structured storage.
-- 🎯 [Polymarket Paper Trader](https://github.com/Giri-Aayush/polymarket-paper-trader) - Prediction market paper trading engine in Rust with full position management and P&L simulation.
+- 🔭 [Hexcast](https://github.com/Giri-Aayush/hexcast) - 88-source Ethereum intel feed, AI-summarized into 60-word cards for builders.
+- 📊 [LighterLens](https://github.com/Giri-Aayush/lighter-lens) - Trading analytics for Lighter.xyz - Sharpe ratio, drawdown, win streaks, and trade journal.
+- 🎯 [Polymarket Paper Trader](https://github.com/Giri-Aayush/polymarket-paper-trader) - Prediction market paper trading engine in Rust with full P&L simulation.
 - 🏺 [Aztec Faucet](https://github.com/Giri-Aayush/aztec-faucet) - Developer token faucet for Aztec's privacy-first L2.
-- 📊 [LighterLens](https://github.com/Giri-Aayush/lighter-lens) - Institutional-grade trading analytics for Lighter.xyz - Sharpe ratio, drawdown, win streaks, and full trade journal with privacy routing via Cloudflare Workers.
+- 🌊 [Hyperliquid Data Pipeline](https://github.com/Giri-Aayush/hyperliquid-data-pipeline) - Real-time Hyperliquid order book, trades, and funding rate pipeline.
+- 🔮 [BFV Homomorphic Order Matching Engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - Order matching on encrypted data via BFV FHE in Rust - zero plaintext.
 
 ---
 
