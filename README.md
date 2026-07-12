@@ -9,7 +9,7 @@ I build the tooling I wish existed when I started: SDKs, faucets, MCP servers, a
 - 📜 [SNIP-27](https://github.com/starknet-io/SNIPs/blob/main/SNIPS/snip-27.md) - authored the Starknet Monetary Committee Charter, merged into the protocol spec repo
 - ⛽ [starknet-faucet](https://github.com/Giri-Aayush/faucet-terminal) (2,000+ npm downloads/yr) - terminal-native faucet for Starknet Sepolia
 - 🏆 Two ETHGlobal podiums in 2025: [winner, Celo track, Taipei](https://github.com/Giri-Aayush/finix-ethtaipei-2025) and [runner-up, 1inch track, Prague](https://github.com/Giri-Aayush/vectorPlus-ethprague-2025)
-- 🔮 [bfv-homomorphic-order-matching-engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - order matching on encrypted data, zero plaintext
+- 🔮 [bfv-homomorphic-order-matching-engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - order matching where the arithmetic runs on BFV ciphertexts
 - 🔭 [Hexcast](https://github.com/Giri-Aayush/hexcast) - live Ethereum intel feed, 88 sources summarized into 60-word cards
 
 ## SDKs and Developer Tooling
@@ -32,7 +32,7 @@ Protocol and spec work:
 | Project | What it does | Stack |
 |---|---|---|
 | [hyperliquid-data-pipeline](https://github.com/Giri-Aayush/hyperliquid-data-pipeline) | Market data pipeline for Hyperliquid: S3 historical ingestion, real-time WebSocket feeds, OHLCV and orderbook metrics | Python |
-| [bfv-homomorphic-order-matching-engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) | Matches orders on encrypted data with BFV fully homomorphic encryption. No plaintext at any point | Rust |
+| [bfv-homomorphic-order-matching-engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) | Order matching where sums, comparisons, and fills run homomorphically on BFV ciphertexts | Rust |
 | [lighter-lens](https://github.com/Giri-Aayush/lighter-lens) | Trading analytics for Lighter.xyz: Sharpe ratio, drawdown, win streaks, trade journal | TypeScript |
 
 ## Product Builds
