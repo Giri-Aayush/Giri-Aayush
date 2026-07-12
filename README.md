@@ -7,7 +7,7 @@ I build the tooling I wish existed when I started: SDKs, faucets, MCP servers, a
 ## Start here
 
 - 📜 [SNIP-27](https://github.com/starknet-io/SNIPs/blob/main/SNIPS/snip-27.md) - authored the Starknet Monetary Committee Charter, merged into the protocol spec repo
-- ⛽ [starknet-faucet](https://github.com/Giri-Aayush/faucet-terminal) (2,000+ npm downloads/yr) - terminal-native faucet for Starknet Sepolia
+- ⛽ [faucet-terminal](https://github.com/Giri-Aayush/faucet-terminal) (2,800+ combined npm downloads/yr) - terminal faucet for Starknet and Ethereum Sepolia
 - 🏆 Two ETHGlobal podiums in 2025: [winner, Celo track, Taipei](https://github.com/Giri-Aayush/finix-ethtaipei-2025) and [runner-up, 1inch track, Prague](https://github.com/Giri-Aayush/vectorPlus-ethprague-2025)
 - 🔮 [bfv-homomorphic-order-matching-engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - order matching where the arithmetic runs on BFV ciphertexts
 - 🔭 [Hexcast](https://github.com/Giri-Aayush/hexcast) - live Ethereum intel feed, 88 sources summarized into 60-word cards
@@ -16,7 +16,7 @@ I build the tooling I wish existed when I started: SDKs, faucets, MCP servers, a
 
 | Project | What it is | Proof |
 |---|---|---|
-| [starknet-faucet](https://github.com/Giri-Aayush/faucet-terminal) | Terminal-native faucet CLI for Starknet Sepolia | [2,000+ npm downloads](https://www.npmjs.com/package/starknet-faucet) in the last year |
+| [faucet-terminal](https://github.com/Giri-Aayush/faucet-terminal) | Terminal faucet CLI for Starknet and Ethereum Sepolia, formerly published as starknet-faucet | [2,800+ combined npm downloads](https://www.npmjs.com/package/faucet-terminal) in the last year |
 | [nitroguard](https://github.com/Giri-Aayush/nitroguard) | State channel lifecycle SDK for Yellow Network (ERC-7824): state machine enforcement, persistence, dispute protection | [On npm](https://www.npmjs.com/package/nitroguard), CI-tested |
 | [aztec-faucet](https://github.com/NethermindEth/aztec-faucet) | Testnet faucet for Aztec: bridges Fee Juice from L1 to L2, drips Sepolia ETH, generates keypairs | Maintained under NethermindEth |
 | [starknet-mcp](https://github.com/Giri-Aayush/starknet-mcp) | MCP server that lets AI agents query state, send transactions, and automate tasks on Starknet | TypeScript |
