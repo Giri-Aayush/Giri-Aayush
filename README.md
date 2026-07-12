@@ -1,8 +1,6 @@
 # Hi, I'm Aayush
 
-**DevRel @ Nethermind · Rust, ZK, trading infra · I make onchain building less painful.**
-
-I build the tooling I wish existed when I started: SDKs, faucets, MCP servers, and trading systems. Five years in, currently leading Developer Relations at Nethermind, previously research engineering on cryptographic primitives and scaling solutions.
+I build the tooling I wish existed when I started: SDKs, faucets, MCP servers, and trading systems. Before leading DevRel I was a research engineer working on cryptographic primitives and scaling, and both halves show up in everything below.
 
 ## Start here
 
