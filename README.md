@@ -22,16 +22,16 @@ Spec and upstream: authored [SNIP-27](https://github.com/starknet-io/SNIPs/blob/
 
 ## Quant and Trading Systems
 
-- 🌊 [hyperliquid-data-pipeline](https://github.com/Giri-Aayush/hyperliquid-data-pipeline) - Hyperliquid market data: S3 history, live WebSocket, order books to per-order queue position · Python
-- 🔮 [bfv-homomorphic-order-matching-engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - sums, comparisons, and fills run homomorphically on BFV ciphertexts · Rust
-- 📊 [lighter-lens](https://github.com/Giri-Aayush/lighter-lens) - trading analytics for Lighter.xyz: Sharpe, drawdown, win streaks · TypeScript
+- 🌊 [hyperliquid-data-pipeline](https://github.com/Giri-Aayush/hyperliquid-data-pipeline) - Hyperliquid market data: S3 history, live feeds, L4 books · Python
+- 🔮 [bfv-homomorphic-order-matching-engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - order matching on BFV ciphertexts · Rust
+- 📊 [lighter-lens](https://github.com/Giri-Aayush/lighter-lens) - Lighter.xyz analytics: Sharpe, drawdown, streaks · TypeScript
 
 ## Product Builds
 
 - 🔭 [Hexcast](https://github.com/Giri-Aayush/hexcast) - Ethereum intel from 88 sources, AI-summarized into 60-word cards · live
-- 🎭 [zkp-authentication](https://github.com/Giri-Aayush/zkp-authentication) - Chaum-Pedersen ZKP auth over gRPC, no password ever transmitted · Rust, 11 stars
-- 🐦 [Torbit](https://torbit.xyz) - drafts X posts in your voice from what your niche discusses; nothing auto-posts · private beta
-- ❄️ [Rime](https://github.com/Giri-Aayush/rime) - shielded Zcash treasury with FROST 2-of-3 threshold signatures · open source
+- 🎭 [zkp-authentication](https://github.com/Giri-Aayush/zkp-authentication) - Chaum-Pedersen ZKP auth over gRPC in Rust · 11 stars
+- 🐦 [Torbit](https://torbit.xyz) - drafts X posts in your voice, nothing auto-posts · private beta
+- ❄️ [Rime](https://github.com/Giri-Aayush/rime) - shielded Zcash treasury with FROST 2-of-3 signing · open source
 
 ## Developer Relations
 
