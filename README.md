@@ -4,8 +4,8 @@ I build the tooling I wish existed when I started: SDKs, faucets, MCP servers, a
 
 ## Start here
 
-- 📜 [SNIP-27](https://github.com/starknet-io/SNIPs/blob/main/SNIPS/snip-27.md) - authored the Starknet Monetary Committee Charter, merged into the protocol spec repo
-- ⛽ [faucet-terminal](https://github.com/Giri-Aayush/faucet-terminal) - terminal faucet for Starknet and Ethereum Sepolia · [2,800+ npm downloads/yr](https://www.npmjs.com/package/faucet-terminal)
+- 📜 [SNIP-27](https://github.com/starknet-io/SNIPs/blob/main/SNIPS/snip-27.md) - authored Starknet's Monetary Committee Charter, merged upstream
+- ⛽ [faucet-terminal](https://github.com/Giri-Aayush/faucet-terminal) - terminal faucet for Sepolia testnets · [2,800+ npm downloads/yr](https://www.npmjs.com/package/faucet-terminal)
 - 🏆 Two ETHGlobal podiums in 2025: [winner, Celo track, Taipei](https://github.com/Giri-Aayush/finix-ethtaipei-2025) · [runner-up, 1inch track, Prague](https://github.com/Giri-Aayush/vectorPlus-ethprague-2025)
 - 🔮 [bfv-homomorphic-order-matching-engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - order matching on BFV ciphertexts, in Rust
 - 🔭 [Hexcast](https://github.com/Giri-Aayush/hexcast) - live Ethereum intel feed, 88 sources in 60-word cards
@@ -22,7 +22,7 @@ Spec and upstream: authored [SNIP-27](https://github.com/starknet-io/SNIPs/blob/
 
 ## Quant and Trading Systems
 
-- 🌊 [hyperliquid-data-pipeline](https://github.com/Giri-Aayush/hyperliquid-data-pipeline) - Hyperliquid market data: S3 history, live feeds, L4 books · Python
+- 🌊 [hyperliquid-data-pipeline](https://github.com/Giri-Aayush/hyperliquid-data-pipeline) - S3 history, live feeds, L4 books · Python
 - 🔮 [bfv-homomorphic-order-matching-engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - order matching on BFV ciphertexts · Rust
 - 📊 [lighter-lens](https://github.com/Giri-Aayush/lighter-lens) - Lighter.xyz analytics: Sharpe, drawdown, streaks · TypeScript
 
@@ -36,7 +36,7 @@ Spec and upstream: authored [SNIP-27](https://github.com/starknet-io/SNIPs/blob/
 ## Developer Relations
 
 - Senior Developer Relations Engineer at [Nethermind](https://github.com/NethermindEth), leading DevRel
-- Previously: Research Engineer at Nethermind, DevRel at [Spheron](https://github.com/spheronFdn), founding blockchain engineer at [Clamp](https://joinclamp.com)
+- Previously: Nethermind research, [Spheron](https://github.com/spheronFdn) DevRel, founding engineer at [Clamp](https://joinclamp.com)
 - 15+ conference talks: full list in [talks](https://github.com/Giri-Aayush/talks) · tutorials at [medium.com/@aayushgiri1234](https://medium.com/@aayushgiri1234)
 
 ## Hackathon Results
