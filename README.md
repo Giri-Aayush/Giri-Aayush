@@ -4,14 +4,22 @@
 
 I build the tooling I wish existed when I started: SDKs, faucets, MCP servers, and trading systems. Five years in, currently leading Developer Relations at Nethermind, previously research engineering on cryptographic primitives and scaling solutions.
 
+## Start here
+
+- 📜 [SNIP-27](https://github.com/starknet-io/SNIPs/blob/main/SNIPS/snip-27.md) - authored the Starknet Monetary Committee Charter, merged into the protocol spec repo
+- ⛽ [starknet-faucet](https://github.com/Giri-Aayush/faucet-terminal) (2,000+ npm downloads/yr) - terminal-native faucet for Starknet Sepolia
+- 🏆 Two ETHGlobal podiums in 2025: [winner, Celo track, Taipei](https://github.com/Giri-Aayush/finix-ethtaipei-2025) and [runner-up, 1inch track, Prague](https://github.com/Giri-Aayush/vectorPlus-ethprague-2025)
+- 🔮 [bfv-homomorphic-order-matching-engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - order matching on encrypted data, zero plaintext
+- 🔭 [Hexcast](https://github.com/Giri-Aayush/hexcast) - live Ethereum intel feed, 88 sources summarized into 60-word cards
+
 ## SDKs and Developer Tooling
 
 | Project | What it is | Proof |
 |---|---|---|
 | [starknet-faucet](https://github.com/Giri-Aayush/faucet-terminal) | Terminal-native faucet CLI for Starknet Sepolia | [2,000+ npm downloads](https://www.npmjs.com/package/starknet-faucet) in the last year |
 | [nitroguard](https://github.com/Giri-Aayush/nitroguard) | State channel lifecycle SDK for Yellow Network (ERC-7824): state machine enforcement, persistence, dispute protection | [On npm](https://www.npmjs.com/package/nitroguard), CI-tested |
-| [starknet-mcp](https://github.com/Giri-Aayush/starknet-mcp) | MCP server that lets AI agents query state, send transactions, and automate tasks on Starknet | TypeScript |
 | [aztec-faucet](https://github.com/NethermindEth/aztec-faucet) | Testnet faucet for Aztec: bridges Fee Juice from L1 to L2, drips Sepolia ETH, generates keypairs | Maintained under NethermindEth |
+| [starknet-mcp](https://github.com/Giri-Aayush/starknet-mcp) | MCP server that lets AI agents query state, send transactions, and automate tasks on Starknet | TypeScript |
 | [oort-storage-sdk](https://github.com/Giri-Aayush/oort-storage-sdk) | TypeScript client for OORT's S3-compatible object storage | Community contribution |
 
 Protocol and spec work:
@@ -32,15 +40,15 @@ Protocol and spec work:
 | Product | What it is | Status |
 |---|---|---|
 | [Hexcast](https://github.com/Giri-Aayush/hexcast) | Ethereum ecosystem intelligence from 88 sources, AI-summarized into 60-word cards | Live |
+| [zkp-authentication](https://github.com/Giri-Aayush/zkp-authentication) | Chaum-Pedersen ZKP authentication over gRPC in Rust. No password ever transmitted | 11 stars |
 | [Torbit](https://torbit.xyz) | Reads what your niche discusses on Reddit, Hacker News, and X, then drafts posts in your voice. Nothing auto-posts | Private beta |
 | [Rime](https://github.com/Giri-Aayush/rime) | Shielded Zcash treasury for teams: FROST 2-of-3 threshold signatures, payment approvals, signer recovery | Open source |
-| [zkp-authentication](https://github.com/Giri-Aayush/zkp-authentication) | Chaum-Pedersen ZKP authentication over gRPC in Rust. No password ever transmitted | 11 stars |
 
 ## Developer Relations
 
 - Senior Developer Relations Engineer at [Nethermind](https://github.com/NethermindEth), leading DevRel
 - Previously: Research Engineer at Nethermind (cryptographic primitives, scaling), Developer Relations at [Spheron](https://github.com/spheronFdn), founding blockchain engineer at [Clamp](https://joinclamp.com)
-- 15+ conference talks delivered
+- 15+ conference talks delivered: full list in [talks](https://github.com/Giri-Aayush/talks)
 - Tutorials on blockchain systems: [medium.com/@aayushgiri1234](https://medium.com/@aayushgiri1234)
 
 ## Hackathon Results
