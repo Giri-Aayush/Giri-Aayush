@@ -1,53 +1,64 @@
-# Aayush Giri
+## Aayush Giri
 
-I build developer tooling for onchain systems: SDKs, faucets, MCP servers, and trading infrastructure. Before leading DevRel I was a research engineer working on cryptographic primitives and scaling, and both halves show up in everything below.
+I build developer tooling for onchain systems: SDKs, faucets, MCP servers, and
+trading infrastructure. Before leading DevRel I was a research engineer on
+cryptographic primitives and scaling, and both halves show up in the work below.
 
-## Highlights
+`Rust · TypeScript · Go · Python · Solidity · Cairo`
 
-- [SNIP-27](https://github.com/starknet-io/SNIPs/blob/main/SNIPS/snip-27.md) - authored Starknet's Monetary Committee Charter, merged upstream
-- [faucet-terminal](https://github.com/Giri-Aayush/faucet-terminal) - terminal faucet for Sepolia testnets · [2,800+ npm downloads/yr](https://www.npmjs.com/package/faucet-terminal)
-- Two ETHGlobal podiums in 2025: [winner, Celo track, Taipei](https://github.com/Giri-Aayush/finix-ethtaipei-2025) · [runner-up, 1inch track, Prague](https://github.com/Giri-Aayush/vectorPlus-ethprague-2025)
-- [bfv-homomorphic-order-matching-engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - order matching on BFV ciphertexts, in Rust
-- [Hexcast](https://github.com/Giri-Aayush/hexcast) - live Ethereum intel feed, 88 sources in 60-word cards
+### Highlights
 
-## SDKs and Developer Tooling
+- **faucet-terminal** does 2,800+ npm downloads a year: a testnet faucet you drive from the terminal
+- **finix** won the Celo track at ETHGlobal Taipei 2025: an MCP server that lets Claude read and act on Celo, Aave, and Dune
+- **hexcast** is live at hexcast.xyz: 88 Ethereum sources, summarized by an LLM into 60-word cards
+- Authored **SNIP-27**, Starknet's Monetary Committee Charter, merged upstream
+- Two ETHGlobal podiums in 2025: winner (Celo, Taipei), runner-up (1inch, Prague)
 
-- [faucet-terminal](https://github.com/Giri-Aayush/faucet-terminal) - faucet CLI for Starknet + Ethereum Sepolia · 2,800+ npm downloads/yr
-- [nitroguard](https://github.com/Giri-Aayush/nitroguard) - state channel lifecycle SDK for Yellow Network (ERC-7824) · [on npm](https://www.npmjs.com/package/nitroguard)
-- [aztec-faucet](https://github.com/NethermindEth/aztec-faucet) - Aztec testnet faucet, bridges Fee Juice from L1 to L2 · NethermindEth
-- [starknet-mcp](https://github.com/Giri-Aayush/starknet-mcp) - MCP server so AI agents can query and transact on Starknet
-- [oort-storage-sdk](https://github.com/Giri-Aayush/oort-storage-sdk) - TypeScript client for OORT's S3-compatible storage
+### AI systems
 
-Spec and upstream: authored [SNIP-27](https://github.com/starknet-io/SNIPs/blob/main/SNIPS/snip-27.md) (merged) · [5 merged PRs to starknet.go](https://github.com/NethermindEth/starknet.go/pulls?q=is%3Apr+author%3AGiri-Aayush)
+- **hexcast**: production LLM pipeline running GPT-4.1-mini in the cloud with a local Ollama and Llama 3.1 fallback, quality-scored across 11 fetcher types. Live at [hexcast.xyz](https://hexcast.xyz)
+- **finix**: MCP server connecting Claude to the Celo blockchain, Aave lending, and Dune analytics. Won the Celo track, ETHGlobal Taipei 2025
 
-## Quant and Trading Systems
+### Products
 
-- [hyperliquid-data-pipeline](https://github.com/Giri-Aayush/hyperliquid-data-pipeline) - S3 history, live feeds, L4 books · Python
-- [bfv-homomorphic-order-matching-engine](https://github.com/Giri-Aayush/bfv-homomorphic-order-matching-engine) - order matching on BFV ciphertexts · Rust
-- [lighter-lens](https://github.com/Giri-Aayush/lighter-lens) - Lighter.xyz analytics: Sharpe, drawdown, streaks · TypeScript
+- **hexcast**: Ethereum intelligence feed, live and installable as a PWA
+- **Optix**: gasless ETH options trading over Yellow Network state channels, priced by a Black-Scholes engine and settled on Sepolia
+- **slingshot**: grab your Mac's screen with a fist and fling it to another Mac, built on Apple's Vision framework
+- **rime**: shielded Zcash treasury with FROST 2-of-3 signing
 
-## Product Builds
+### SDKs and developer tooling
 
-- [Hexcast](https://github.com/Giri-Aayush/hexcast) - Ethereum intel from 88 sources, AI-summarized into 60-word cards · live
-- [zkp-authentication](https://github.com/Giri-Aayush/zkp-authentication) - Chaum-Pedersen ZKP auth over gRPC in Rust · 11 stars
-- [Torbit](https://torbit.xyz) - drafts X posts in your voice, nothing auto-posts · private beta
-- [Rime](https://github.com/Giri-Aayush/rime) - shielded Zcash treasury with FROST 2-of-3 signing · open source
+- **faucet-terminal**: faucet CLI for Starknet and Ethereum Sepolia, on npm, 2,800+ downloads a year
+- **nitroguard**: SDK for the Yellow Network state-channel lifecycle (ERC-7824), on npm
+- **oort-storage-sdk**: TypeScript client for OORT's S3-compatible storage
+- Upstream: authored SNIP-27 (merged), plus 5 merged PRs to starknet.go
 
-## Experience
+### Quant and trading
 
-- [Nethermind](https://github.com/NethermindEth) - Senior Developer Relations Engineer, leading DevRel; previously Research Engineer
-- Earlier: [Spheron](https://github.com/spheronFdn) (DevRel), [Clamp](https://joinclamp.com) (founding engineer), Jio and Rize Labs (engineering)
-- Blockchain researcher at [IIT (ISM) Dhanbad](https://cse.iitism.ac.in/)
-- 15+ conference talks delivered · technical writing at [medium.com/@aayushgiri1234](https://medium.com/@aayushgiri1234)
+- **hyperliquid-data-pipeline**: S3 history, live WebSocket feeds, and full L4 order books
+- **lighter-lens**: Sharpe, drawdown, and streak analytics for Lighter.xyz perps
+- **vectorPlus**: three execution strategies on 1inch limit orders (options on execution rights, volatility-aware sizing, MEV-resistant TWAP). Runner-up, 1inch track, ETHGlobal Prague 2025
 
-## Recognition
+### Cryptography and research
 
-- Winner, Celo tooling track, ETHGlobal Taipei 2025: [Finix](https://github.com/Giri-Aayush/finix-ethtaipei-2025)
-- Runner-up, 1inch track, ETHGlobal Prague 2025: [vectorPlus](https://github.com/Giri-Aayush/vectorPlus-ethprague-2025)
-- Best Innovation Award, ETHGlobal Tokyo 2023 · Sponsor prize, ETHGlobal HackFS 2022
+- **zkp-authentication**: Chaum-Pedersen ZKP authentication over gRPC, in Rust
+- **bfv-homomorphic-order-matching-engine**: order matching that runs over BFV ciphertexts
+- **solidity-to-daml-confidential-auction**: the same sealed-bid auction built twice, Solidity versus Daml on Canton
 
-Core stack: Rust, TypeScript, Go, Python, Solidity, Cairo
+### Experience
 
-## Contact
+- **Nethermind**: Senior Developer Relations Engineer, previously Research Engineer
+- Earlier: Spheron (DevRel), Clamp (founding engineer), Jio and Rize Labs (engineering)
+- Blockchain researcher, IIT (ISM) Dhanbad
+- 15+ conference talks
 
-[LinkedIn](https://www.linkedin.com/in/aayush-giri/) · [Twitter](https://twitter.com/AayushStack) · [Blog](https://aayush-giri.netlify.app/) · [Book time](https://cal.com/aayush-giri)
+### Recognition
+
+- Winner, Celo track, ETHGlobal Taipei 2025 (Finix)
+- Runner-up, 1inch track, ETHGlobal Prague 2025 (vectorPlus)
+- Best Innovation Award, ETHGlobal Tokyo 2023
+- Sponsor prize, ETHGlobal HackFS 2022
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/aayush-giri) · [Twitter](https://twitter.com/AayushStack) · [Blog](https://medium.com/@aayushgiri1234) · [Site](https://aayush-giri.netlify.app)
