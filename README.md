@@ -47,8 +47,8 @@ cryptographic primitives and scaling, and both halves show up in the work below.
 
 ### Experience
 
-- **Nethermind**: Senior Developer Relations Engineer, previously Research Engineer
-- Earlier: Spheron (DevRel), Clamp (founding engineer), Jio and Rize Labs (engineering)
+- [**Nethermind**](https://www.nethermind.io/): Senior Developer Relations Engineer, previously Research Engineer
+- Earlier: [Spheron](https://www.spheron.network/) (DevRel), [Clamp](https://joinclamp.com/) (founding engineer), [Jio](https://www.jio.com/) and Rize Labs (engineering)
 - Blockchain researcher, IIT (ISM) Dhanbad
 - 15+ conference talks
 
