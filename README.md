@@ -1,8 +1,11 @@
 ## Aayush Giri
 
-I build developer tooling for onchain systems: SDKs, faucets, MCP servers, and
-trading infrastructure. Before leading DevRel I was a research engineer on
-cryptographic primitives and scaling, and both halves show up in the work below.
+I build things, then help other people build them too. Lately that's MCP
+servers, LLM pipelines, some trading infra, and one Mac app I made mostly so I
+could stop using AirDrop. I came up doing research on zero-knowledge and
+encrypted computation, and the low-level stuff still nerd-snipes me. I do DevRel
+at Nethermind now, which is a fancy way of saying I build the thing and then
+help people actually use it.
 
 `Rust · TypeScript · Go · Python · Solidity · Cairo`
 
